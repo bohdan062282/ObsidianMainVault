@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a59046945835776d",
+        "id": "bed5c0fb1443bcd9",
         "type": "tabs",
         "children": [
           {
-            "id": "5d33ba99cfc6990c",
+            "id": "38c6d370964e2b39",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,21 +138,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/Rigidbody.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rigidbody"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8bae71f01f0f84cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,14 +170,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d33ba99cfc6990c",
+  "active": "38c6d370964e2b39",
   "lastOpenFiles": [
+    "Unity/Rigidbody.md",
+    "Unity/MonoBehaviour/MonoBehaviour.md",
     "Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
     "Books/[Networking]_kurose_james_f_ross_keith_w_computer_networking_a_topdown_ap.pdf",
-    "Unity/MonoBehaviour/MonoBehaviour.md",
     "SECOND BRAIN.md",
     "Untitled.md",
     "Untitled.canvas",
