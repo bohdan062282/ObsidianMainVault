@@ -1,0 +1,4 @@
+*Change password*
+
+`passwd [user]`
+

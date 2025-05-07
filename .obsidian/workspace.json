@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ec07ba8e1e70fe99",
+    "type": "split",
+    "children": [
+      {
+        "id": "a59046945835776d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d33ba99cfc6990c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b824ba9783fde5ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "db936f17a2337c7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5f98e26979a4f58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3bad7ab97ba7f57b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "66bb2e569e9667cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "703ddad1668dd7e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d55bfcb51a65c95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "758121a9fbd3d81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity/Rigidbody.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rigidbody"
+            }
+          },
+          {
+            "id": "40976cdab2d16d9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unity/Rigidbody.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rigidbody"
+            }
+          },
+          {
+            "id": "ac1977eaebd9aa08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cb5488d39131fa19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unity/Rigidbody.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rigidbody"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5d33ba99cfc6990c",
+  "lastOpenFiles": [
+    "Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
+    "Books/[Networking]_kurose_james_f_ross_keith_w_computer_networking_a_topdown_ap.pdf",
+    "Unity/MonoBehaviour/MonoBehaviour.md",
+    "SECOND BRAIN.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Unity/Unity.md",
+    "test.md",
+    "Obsidian help.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Basic Configuration.md",
+    "Network and system enginering/Windows/ssh.md",
+    "Network and system enginering/SSH.md",
+    "Network and system enginering/Windows/powershell/Powershell.md",
+    "Unity/Transform.md",
+    "Unity/Static, Kinematic, Dynamic.md",
+    "Unity/Serialize.md",
+    "Unity/Gizmos.md",
+    "Unity/Important links.md",
+    "Unity/Character controller.md",
+    "Unity/MonoBehaviour/MonoBehaviour.Invoke.md",
+    "Network and system enginering/Windows/Windows.md",
+    "Network and system enginering/Linux/Linux.md",
+    "Network and system enginering/Networking and system engineering.md",
+    "Network and system enginering/Networking/TCP IP.md",
+    "Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
+    "Network and system enginering/Networking/Networking.md",
+    "Network and system enginering/Networking/RouterOS/RouterOS.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
+    "cache/troubleshoot_if_ping_fails.jpg",
+    "cache/winbox_wlan_iface.png",
+    "cache/winbox_wlan_sec_profile.png",
+    "Network and system enginering/Networking/RouterOS/Basic configuration",
+    "cache/Pasted image 20240502140421.png",
+    "cache/Pasted image 20240502140831.png",
+    "cache/Pasted image 20240502141610.png",
+    "cache/Pasted image 20240502142135.png",
+    "Network and system enginering/Networking/RouterOS",
+    "Books/[Networking]_Компьютерные_сети._Нисходящий подход.pdf",
+    "Books/[SYSTEM]_Внутреннее устройство Linux.pdf",
+    "Books/[UNITY_vfx]_the-definitive-guide-to-creating-advanced-visual-effects-in-unity.pdf",
+    "Books/Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
+    "Books/[GAME_patterns]_Level_up_your_code_with_Game_Programming_Pattern.pdf"
+  ]
+}
