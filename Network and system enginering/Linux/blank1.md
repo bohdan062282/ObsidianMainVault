@@ -1,0 +1,4 @@
+sudo dnf update
+
+reboot
+

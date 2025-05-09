@@ -3,4 +3,5 @@
 - [[Upgrading and installation]]
 - [[Configuration Management]]
 - [[Console]]
+- [[Reset]]
 - 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d70ed3ca0dd96d4e",
+        "id": "0861e0c39af34bab",
         "type": "tabs",
         "children": [
           {
-            "id": "3cddc31b933eff5c",
+            "id": "81b2987aba0c3017",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,10 +174,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cddc31b933eff5c",
+  "active": "81b2987aba0c3017",
   "lastOpenFiles": [
-    "SECOND BRAIN.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Basic Configuration.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Console.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Reset.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
     "Network and system enginering/Linux/Git Auth.md",
+    "Network and system enginering/Linux/blank1.md",
+    "SECOND BRAIN.md",
     "Unity/Rigidbody.md",
     "Unity/MonoBehaviour/MonoBehaviour.md",
     "Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
@@ -187,7 +195,6 @@
     "Unity/Unity.md",
     "test.md",
     "Obsidian help.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Basic Configuration.md",
     "Network and system enginering/Windows/ssh.md",
     "Network and system enginering/SSH.md",
     "Network and system enginering/Windows/powershell/Powershell.md",
@@ -198,13 +205,6 @@
     "Unity/Important links.md",
     "Unity/Character controller.md",
     "Unity/MonoBehaviour/MonoBehaviour.Invoke.md",
-    "Network and system enginering/Windows/Windows.md",
-    "Network and system enginering/Linux/Linux.md",
-    "Network and system enginering/Networking and system engineering.md",
-    "Network and system enginering/Networking/TCP IP.md",
-    "Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
-    "Network and system enginering/Networking/Networking.md",
-    "Network and system enginering/Networking/RouterOS/RouterOS.md",
     "cache/troubleshoot_if_ping_fails.jpg",
     "cache/winbox_wlan_iface.png",
     "cache/winbox_wlan_sec_profile.png",
