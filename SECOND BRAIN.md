@@ -8,7 +8,7 @@
 [Packet Flow](https://help.mikrotik.com/docs/spaces/ROS/pages/328059/RouterOS)
 [Software specifications](https://help.mikrotik.com/docs/spaces/ROS/pages/19136707/Software+Specifications)
 
-[[RouterOS Skills Stack]]
+[[RouterOS]]
 #### [[Basic Configuration]]
 ## Linux
 [[htop]]

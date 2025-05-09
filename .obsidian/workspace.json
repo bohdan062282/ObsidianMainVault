@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0861e0c39af34bab",
+        "id": "cd4139bbe13c0508",
         "type": "tabs",
         "children": [
           {
-            "id": "81b2987aba0c3017",
+            "id": "9337ef26fc7070d2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81b2987aba0c3017",
+  "active": "9337ef26fc7070d2",
   "lastOpenFiles": [
+    "SECOND BRAIN.md",
+    "Network and system enginering/Networking/RouterOS/RouterOS.md",
+    "Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
+    "Network and system enginering/Networking/RouterOS/Basic Configuration.md",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Basic Configuration.md",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Console.md",
@@ -185,7 +189,6 @@
     "Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
     "Network and system enginering/Linux/Git Auth.md",
     "Network and system enginering/Linux/blank1.md",
-    "SECOND BRAIN.md",
     "Unity/Rigidbody.md",
     "Unity/MonoBehaviour/MonoBehaviour.md",
     "Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
@@ -202,9 +205,6 @@
     "Unity/Static, Kinematic, Dynamic.md",
     "Unity/Serialize.md",
     "Unity/Gizmos.md",
-    "Unity/Important links.md",
-    "Unity/Character controller.md",
-    "Unity/MonoBehaviour/MonoBehaviour.Invoke.md",
     "cache/troubleshoot_if_ping_fails.jpg",
     "cache/winbox_wlan_iface.png",
     "cache/winbox_wlan_sec_profile.png",
