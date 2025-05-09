@@ -11,25 +11,11 @@
 [[RouterOS]]
 #### [[Basic Configuration]]
 ## Linux
-[[htop]]
-[[mkfs]]
-[[parted]]
-[[passwd]]
-[[Network and system enginering/Linux/ssh|ssh]]
-[[Git Auth]]
-[[blank1]]
+[[Linux]]
+
 ## Windows
-[[Runas]]
-[[Shutdown]]
-[[Network and system enginering/Windows/ssh|ssh]]
-[[При установке Windows 11]]
+[[Windows]]
 #### [[Powershell]]
 ## Unity
+[[Unity]]
 **[[Important links]]**
-[[Transform]]
-[[Rigidbody]]
-[[Serialize]]
-[[Character controller]]
-[[Resources]]
-[[Gizmos]]
-#### [[MonoBehaviour]]

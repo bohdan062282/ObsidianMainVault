@@ -1,0 +1,7 @@
+[[Transform]]
+[[Rigidbody]]
+[[Serialize]]
+[[Character controller]]
+[[Resources]]
+[[Gizmos]]
+[[MonoBehaviour.Invoke]]
