@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bed5c0fb1443bcd9",
+        "id": "d70ed3ca0dd96d4e",
         "type": "tabs",
         "children": [
           {
-            "id": "38c6d370964e2b39",
+            "id": "3cddc31b933eff5c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,13 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38c6d370964e2b39",
+  "active": "3cddc31b933eff5c",
   "lastOpenFiles": [
+    "SECOND BRAIN.md",
+    "Network and system enginering/Linux/Git Auth.md",
     "Unity/Rigidbody.md",
     "Unity/MonoBehaviour/MonoBehaviour.md",
     "Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
     "Books/[Networking]_kurose_james_f_ross_keith_w_computer_networking_a_topdown_ap.pdf",
-    "SECOND BRAIN.md",
     "Untitled.md",
     "Untitled.canvas",
     "Unity/Unity.md",
@@ -204,7 +205,6 @@
     "Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
     "Network and system enginering/Networking/Networking.md",
     "Network and system enginering/Networking/RouterOS/RouterOS.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
     "cache/troubleshoot_if_ping_fails.jpg",
     "cache/winbox_wlan_iface.png",
     "cache/winbox_wlan_sec_profile.png",

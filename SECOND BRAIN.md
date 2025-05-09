@@ -16,6 +16,7 @@
 [[parted]]
 [[passwd]]
 [[Network and system enginering/Linux/ssh|ssh]]
+[[Git Auth]]
 ## Windows
 [[Runas]]
 [[Shutdown]]
