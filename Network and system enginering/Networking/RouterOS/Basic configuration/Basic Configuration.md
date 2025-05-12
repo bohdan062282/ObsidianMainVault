@@ -5,4 +5,4 @@
 - [[Configuration Management]]!
 - [[Console]]
 - [[Reset]]
-- [[Netinstall]]
+- [[Netinstall]]!

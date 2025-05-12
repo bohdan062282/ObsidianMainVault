@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69e2112f2bb2c569",
+        "id": "fc29ee79df9a09af",
         "type": "tabs",
         "children": [
           {
-            "id": "4afe5ee3db9af72b",
+            "id": "5ad65ac7dd6b4961",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,16 +174,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4afe5ee3db9af72b",
+  "active": "5ad65ac7dd6b4961",
   "lastOpenFiles": [
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Console.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Basic Configuration.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Console.md",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
     "cache/Pasted image 20250512141907.png",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Reset.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Untitled",
     "Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
     "SECOND BRAIN.md",
