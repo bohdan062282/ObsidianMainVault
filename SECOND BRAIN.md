@@ -1,21 +1,13 @@
-[[Obsidian help]]
-**[[Network and system enginering/SSH|SSH]]**
+- [[Obsidian help]]
+- [[Network and system enginering/SSH|SSH]]
+## [[Hardware]]
 ## Networking
-[[TCP IP]]
-[[TCP-IP и OSI модель]]
-### Router OS
-[RouterOS documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/328059/RouterOS)
-[Packet Flow](https://help.mikrotik.com/docs/spaces/ROS/pages/328059/RouterOS)
-[Software specifications](https://help.mikrotik.com/docs/spaces/ROS/pages/19136707/Software+Specifications)
-
-[[RouterOS]]
-#### [[Basic Configuration]]
-## Linux
-[[Linux]]
-
-## Windows
-[[Windows]]
-#### [[Powershell]]
-## Unity
-[[Unity]]
-**[[Important links]]**
+- [[TCP IP]]
+- [[TCP-IP и OSI модель]]
+### [[RouterOS]]
+- **[[Basic RouterOS Configuration]]**
+## [[Linux]]
+## [[Windows]]
+- **[[Powershell]]**
+## [[Unity]]
+- [[Important links]]
