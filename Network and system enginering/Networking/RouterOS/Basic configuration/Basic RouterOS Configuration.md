@@ -1,7 +1,7 @@
 - [[First time configuration]]
 - [[Securing basics]]
 - [[Upgrading and installation]]
-- [[Packages]]!
+- [[Packages]]
 - [[Configuration Management]]!
 - [[Console]]
 - [[Reset]]
