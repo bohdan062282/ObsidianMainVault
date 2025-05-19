@@ -5,4 +5,7 @@
 - [[Configuration Management]]!
 - [[Console]]
 - [[Reset]]
+- Backup
 - [[Netinstall]]!
+- Upgrading to v7
+- RouterBOOT
