@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b853be7919308a43",
+        "id": "d0ee71ff592f5f12",
         "type": "tabs",
         "children": [
           {
-            "id": "003d2304b5b93b2d",
+            "id": "390283b1c1d3484c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network and system enginering/Networking/RouterOS/Basic configuration/Basic RouterOS Configuration.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Basic RouterOS Configuration"
-            }
-          },
-          {
-            "id": "424631ea6f9a64c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "First time configuration"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,42 +174,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "424631ea6f9a64c2",
+  "active": "390283b1c1d3484c",
   "lastOpenFiles": [
-    "Network and system enginering/Networking/TCP IP/TCP-IP и OSI модель.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Console.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Basic RouterOS Configuration.md",
+    "Network and system enginering/Linux/Linux.md",
+    "Network and system enginering/Linux/Sync.md",
+    "Network and system enginering/Linux/Block size.md",
+    "Network and system enginering/Linux/dd.md",
+    "Network and system enginering/Linux/Пакетные менеджеры.md",
+    "Network and system enginering/Linux/Типы пакетов Linux.md",
+    "Network and system enginering/Windows/При установке Windows 11.md",
+    "Network and system enginering/Windows/Проверка и восстановление системного образа Windows 10 и 11.md",
+    "Network and system enginering/Windows/DISM.md",
+    "Network and system enginering/Windows/SFC.md",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Reset.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Basic RouterOS Configuration.md",
+    "cache/Pasted image 20250513152530.png",
+    "cache/Pasted image 20250512141907.png",
+    "cache/Pasted image 20250512112142.png",
+    "Unity/Unity.md",
+    "Network and system enginering/Windows/Windows.md",
+    "Network and system enginering/Windows/Run.md",
+    "Network and system enginering/Networking/TCP IP/The Ethernet Frame Format.md",
+    "Network and system enginering/Networking/TCP IP/TCP-IP и OSI модель.md",
+    "Network and system enginering/Networking/TCP IP/TCP IP.md",
+    "Network and system enginering/Networking/TCP IP/Ethernet and the IEEE 802 LAN MAN Standards.md",
+    "Network and system enginering/Networking/TCP IP",
     "Network and system enginering/Networking/RouterOS/RouterOS.md",
     "Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/MikrotikTraining Roadmap.md",
     "Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap",
-    "Network and system enginering/Networking/RouterOS/Untitled.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
-    "Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
-    "Network and system enginering/Linux/Linux.md",
-    "Network and system enginering/Linux/Пакетные менеджеры.md",
-    "Network and system enginering/Linux/Типы пакетов Linux.md",
-    "SECOND BRAIN.md",
-    "Network and system enginering/Linux/blank1.md",
-    "Unity/Unity.md",
-    "Network and system enginering/Windows/Windows.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
+    "Network and system enginering/Hardware/Типы Оперативной Памяти.md",
     "Network and system enginering/Hardware/Маркировка Модулей Памяти.md",
     "Network and system enginering/Hardware/Hardware.md",
-    "Network and system enginering/SSH.md",
-    "Unity/Important links.md",
-    "Network and system enginering/Windows/powershell/Powershell.md",
-    "Obsidian help.md",
-    "cache/Pasted image 20250513152530.png",
     "Network and system enginering/Hardware",
-    "cache/Pasted image 20250512141907.png",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Untitled",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Basic Configuration.md",
     "Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
-    "cache/Pasted image 20250512112142.png",
-    "Network and system enginering/Networking/TCP IP",
     "Books/[Networking]_kurose_james_f_ross_keith_w_computer_networking_a_topdown_ap.pdf",
     "Untitled.canvas",
     "cache/troubleshoot_if_ping_fails.jpg",
@@ -241,6 +221,7 @@
     "cache/Pasted image 20240502142135.png",
     "Network and system enginering/Networking/RouterOS",
     "Books/[Networking]_Компьютерные_сети._Нисходящий подход.pdf",
-    "Books/[SYSTEM]_Внутреннее устройство Linux.pdf"
+    "Books/[SYSTEM]_Внутреннее устройство Linux.pdf",
+    "Books/[UNITY_vfx]_the-definitive-guide-to-creating-advanced-visual-effects-in-unity.pdf"
   ]
 }
