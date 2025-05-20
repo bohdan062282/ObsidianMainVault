@@ -43,16 +43,16 @@
 
 Commands executed in this menu will take place only on restart of the router. Until then, the user can freely schedule or revert set actions.
 
-|   |   |
-|---|---|
-|**disable**|schedule the package to be disabled after the next reboot. No features provided by the package will be accessible|
-|**downgrade**|will prompt for the reboot. During the reboot process will try to downgrade the RouterOS to the oldest version possible by checking the packages that are uploaded to the router.|
-|**enable**|schedule package to be enabled after the next reboot|
-|**uninstall**|schedule package to be removed from the router. That will take place during the reboot.|
-|**unschedule**|remove scheduled task for the package.|
-|**print**|outputs information about the packages, like: version, package state, planned state changes, etc.|
-|**update**|manages the _"check-for-updates"_ channel and performs RouterOS upgrades|
-|**apply-changes**|apply scheduled changes and reboot device|
+|                   |                                                                                                                                                                                   |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **disable**       | schedule the package to be disabled after the next reboot. No features provided by the package will be accessible                                                                 |
+| **downgrade**     | will prompt for the reboot. During the reboot process will try to downgrade the RouterOS to the oldest version possible by checking the packages that are uploaded to the router. |
+| **enable**        | schedule package to be enabled after the next reboot                                                                                                                              |
+| **uninstall**     | schedule package to be removed from the router. That will take place during the reboot.                                                                                           |
+| **unschedule**    | remove scheduled task for the package.                                                                                                                                            |
+| **print**         | outputs information about the packages, like: version, package state, planned state changes, etc.                                                                                 |
+| **update**        | manages the _"check-for-updates"_ channel and performs RouterOS upgrades                                                                                                          |
+| **apply-changes** | apply scheduled changes and reboot device                                                                                                                                         |
 
 **Menu:** _/system/check-installation_
 

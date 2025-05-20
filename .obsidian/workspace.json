@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f98f45292cbdcd",
+        "id": "c9ffcc4888a2eec4",
         "type": "tabs",
         "children": [
           {
-            "id": "e46e35ff2865c188",
+            "id": "cce3df4c69fb88d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 and IPv6 Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IPv4 and IPv6 Fundamentals"
             }
           }
         ]
@@ -174,40 +178,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e46e35ff2865c188",
+  "active": "cce3df4c69fb88d9",
   "lastOpenFiles": [
-    "Network and system enginering/Windows/Windows.md",
-    "Network and system enginering/Windows/ipconfig.md",
-    "Network and system enginering/Windows/netsh.md",
-    "Network and system enginering/Windows/DISM.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Basic RouterOS Configuration.md",
-    "Network and system enginering/Linux/dd.md",
-    "Network and system enginering/Hardware/Hardware.md",
-    "Network and system enginering/Linux/Sync.md",
-    "Network and system enginering/Linux/Block size.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
-    "Network and system enginering/Hardware/Маркировка Модулей Памяти.md",
-    "Network and system enginering/Networking/TCP IP/TCP-IP и OSI модель.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Console.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Reset.md",
-    "Network and system enginering/Networking/RouterOS/RouterOS.md",
-    "Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/MikrotikTraining Roadmap.md",
-    "Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap",
-    "Network and system enginering/Networking/RouterOS/Untitled.md",
-    "Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
     "Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
-    "Network and system enginering/Linux/Linux.md",
-    "Network and system enginering/Linux/Пакетные менеджеры.md",
-    "Network and system enginering/Linux/Типы пакетов Linux.md",
+    "Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 and IPv6 Fundamentals.md",
+    "Network and system enginering/Networking/RouterOS/IP Fundamentals",
+    "Network and system enginering/Networking/RouterOS/Untitled.md",
+    "Network and system enginering/Networking/RouterOS/RouterOS.md",
+    "Network and system enginering/Networking/TCP IP/TCP-IP и OSI модель.md",
+    "Network and system enginering/Networking/TCP IP/Ethernet and the IEEE 802 LAN MAN Standards.md",
+    "Network and system enginering/Networking/TCP IP/The Ethernet Frame Format.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Basic RouterOS Configuration.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Backup.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Reset.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
     "SECOND BRAIN.md",
+    "Network and system enginering/Networking/TCP IP/TCP IP.md",
+    "Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
+    "Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/MikrotikTraining Roadmap.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
+    "Obsidian help.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
+    "Network and system enginering/Networking/RouterOS/Basic configuration/Console.md",
+    "Network and system enginering/Windows/Run.md",
+    "Network and system enginering/Windows/Runas.md",
+    "Network and system enginering/Windows/netsh.md",
+    "Network and system enginering/Windows/ipconfig.md",
+    "Network and system enginering/Windows/Windows.md",
+    "Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap",
     "cache/Pasted image 20250513152530.png",
     "Network and system enginering/Hardware",
     "cache/Pasted image 20250512141907.png",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Untitled",
-    "Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
     "cache/Pasted image 20250512112142.png",
     "Network and system enginering/Networking/TCP IP",
     "Books/[Networking]_kurose_james_f_ross_keith_w_computer_networking_a_topdown_ap.pdf",
@@ -221,7 +226,6 @@
     "cache/Pasted image 20240502141610.png",
     "cache/Pasted image 20240502142135.png",
     "Network and system enginering/Networking/RouterOS",
-    "Books/[Networking]_Компьютерные_сети._Нисходящий подход.pdf",
-    "Books/[SYSTEM]_Внутреннее устройство Linux.pdf"
+    "Books/[Networking]_Компьютерные_сети._Нисходящий подход.pdf"
   ]
 }

@@ -79,6 +79,8 @@ You can see all such changes that will be automatically undone and tagged with a
 
 Now, if the telnet connection (or WinBox terminal) is cut, then after a while (TCP timeout is **9** minutes) all changes that were made while in safe mode will be undone. Exiting session by **[Ctrl]+[D]** also undoes all safe mode changes, while **/quit** does not.
 
+Вроде как 100 максимум правил в сейве - потом они автоматично сохранятся и выйдет с сейва.
+
 ### HotLock Mod
 When HotLock mode is enabled commands will be auto-completed.
 

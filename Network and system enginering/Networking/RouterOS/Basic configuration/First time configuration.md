@@ -19,7 +19,7 @@ The easiest method to ensure a completely clean router is to run the CLI command
 ```bash
 /system reset-configuration no-defaults=yes skip-backup=yes
 ```
-
+##### [[Configuration Management#Reset configuration]]
 #### Configuring IP Access
 - Создание бриджа
 - Создание порта и добавление в бридж
