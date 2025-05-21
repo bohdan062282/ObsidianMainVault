@@ -9,12 +9,10 @@ tags:
 
 ---
 ## Table of contents
-- [[Маркировка Модулей Памяти]]
-- [[Типы Оперативной Памяти]]
+- 
 
 - ### Chapters
 	- 
 
 ---
 ## Core information
-

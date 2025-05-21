@@ -1,7 +1,22 @@
-- #### [[ARP]]
-- 
+---
+Category: Main Chapter
+tags:
+  - mainChapter
+  - open
+---
+---
+###### External links
 
 ---
+## Table of contents
+- [[ARP]]
+- 
+
+- ### Chapters
+	- 
+
+---
+## Core information
 ### Networking Models
 #### OSI Model
 The Open Systems Interconnection (OSI) model is a 7-layer model that today is used as a teaching tool. The OSI model was originally conceived as a standard architecture for building network systems, but in real-world networks are much less defined than the OSI model suggests.
@@ -56,5 +71,6 @@ This model has the same purpose as the OSI model but fits better into modern net
 - `172.16.0.0/12` - start: `172.16.0.0`; end:`172.31.255.255`
 - `192.168.0.0/16` - start: `192.168.0.0`; end: `192.168.255.255`
 
+---
 
 

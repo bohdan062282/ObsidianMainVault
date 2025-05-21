@@ -13,8 +13,11 @@
 
 ***Нужно сделать список по тегам! здесь:***
 
-Тематика:
+Category:
+#command #mainChapter #instruction #information
 
 Status:
 #open #closed #draft
 
+System: 
+#linux #windows
