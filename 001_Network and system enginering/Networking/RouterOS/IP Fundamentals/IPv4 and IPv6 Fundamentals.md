@@ -1,3 +1,7 @@
+- #### [[ARP]]
+- 
+
+---
 ### Networking Models
 #### OSI Model
 The Open Systems Interconnection (OSI) model is a 7-layer model that today is used as a teaching tool. The OSI model was originally conceived as a standard architecture for building network systems, but in real-world networks are much less defined than the OSI model suggests.
@@ -28,6 +32,7 @@ This model has the same purpose as the OSI model but fits better into modern net
 | Link Layer        | Data Link Layer    | ARP, CDP, MPLS, PPP etc.        |
 |                   | Physical Layer     | Bluetooth, Ethernet, Wi-Fi etc. |
 
+---
 ### Ethernet
 Ну понятное дело шо линк леер протокол, использует (Media Access Control address) или эзернет адрес из 6 по 8 бит.
 
@@ -37,6 +42,19 @@ This model has the same purpose as the OSI model but fits better into modern net
 - юникаст
 - бродкаст (`FF:FF:FF:FF:FF:FF`)
 - мультикаст
-
+---
 ### IP Networking
 Понятное дело шо протокол эзернет не может сам по себе работать. И шоб определить уникальных хостов в сети или интернете - юзается Internet Protocol.
+Понятно, шо адрес 4 октета - 32 бита, ну и для различия сети и хоста используется маска, которая делит на адрес сети и на юникаст адрес хоста.
+
+- Широковещание (бродкаст) - отсылает даные один раз всем хостам. Для локального широковещания используется адрес 255.255.255.255. Ну и ограниченное широковещание может быть направлено на широковещательный адрес локальной сети.
+
+- мультикаст (багатоадресна розсилка) - маршрутизаторы пересылают всем, кто подтянулся до групы многоадресной рассылки. В IPv4 это адреса `224.0.0.0` по `239.255.255.255`.
+
+#### Private address range
+- `10.0.0.0/8` - start: `10.0.0.0`; end: `10.255.255.255`
+- `172.16.0.0/12` - start: `172.16.0.0`; end:`172.31.255.255`
+- `192.168.0.0/16` - start: `192.168.0.0`; end: `192.168.255.255`
+
+
+

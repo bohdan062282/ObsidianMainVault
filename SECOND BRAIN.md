@@ -1,5 +1,5 @@
 - [[Obsidian help]]
-- [[Network and system enginering/SSH|SSH]]
+- [[001_Network and system enginering/SSH|SSH]]
 ## [[Hardware]]
 ## Networking
 - #### [[TCP IP]]
@@ -9,3 +9,12 @@
 ## [[Windows]]
 ## [[Unity]]
 - [[Important links]]
+
+
+***Нужно сделать список по тегам! здесь:***
+
+Тематика:
+
+Status:
+#open #closed #draft
+

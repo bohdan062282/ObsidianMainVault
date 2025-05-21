@@ -6,6 +6,6 @@
 2. 
 
 **[[Basic RouterOS Configuration]]**
-
+**[[IPv4 and IPv6 Fundamentals]]**
 **[[MikrotikTraining Roadmap]]**
 

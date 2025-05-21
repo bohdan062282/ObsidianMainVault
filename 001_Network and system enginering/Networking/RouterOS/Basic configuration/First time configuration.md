@@ -14,12 +14,14 @@ When connecting the first time to the router with the default username **admin**
 - *Правила можно перемещать: move destination=НОВАЯ_ПОЗИЦИЯ*
 - 
 
+---
 #### Def conf
 The easiest method to ensure a completely clean router is to run the CLI command:
 ```bash
 /system reset-configuration no-defaults=yes skip-backup=yes
 ```
 ##### [[Configuration Management#Reset configuration]]
+---
 #### Configuring IP Access
 - Создание бриджа
 - Создание порта и добавление в бридж
@@ -31,6 +33,7 @@ The easiest method to ensure a completely clean router is to run the CLI command
 ```
 *Вот много где можно манипулировать с интерфейслистами, но как раз адрес роутера возможен нолько на физический интерфейс ну или на бридж или порт*
 
+---
 #### DHCP server
 To simplify and expedite this process, we'll execute the **setup** command.
 *По сути сетап еще сам создает айпипул и нетворк и их использует*
@@ -44,6 +47,7 @@ To simplify and expedite this process, we'll execute the **setup** command.
 *По идее через запятую можно параметры вписывать*
 *Время в конце можно указать m-для минут, а так по дефолту в секеундах*
 
+---
 #### Configuring Internet Connection
 #####  Dynamic Public IP
 Dynamic address configuration is the easiest option. Simply set up a DHCP client on the public interface. The DHCP client will obtain information from your Internet Service Provider (ISP), such as an IP address, DNS servers, NTP servers, and default route, making the setup process straightforward for you.
@@ -66,6 +70,7 @@ To configure this in RouterOS, we'll manually add an IP address, add a default r
 /interface pppoe-client add disabled=no interface=ether1 user=me password=123 add-default-route=yes use-peer-dns=yes`
 ```
 
+---
 #### Protecting the router
 
 #####  [[Securing basics#User and pass]]
@@ -119,7 +124,7 @@ Additionally, each service can be secured by allowed IP address or address range
 - [[Securing basics#Ethernet/SFP interfaces]]
 - [[Securing basics#More Secure SSH access]]
 
-
+---
 #### NAT Configuration
 ```bash
 /ip firewall nat
@@ -133,6 +138,7 @@ After a quick search on Google, we find out that RDP runs on TCP port 3389. Now 
 ```
 *If you have set up strict firewall rules then RDP protocol must be allowed in the firewall filter forward chain.*
 
+---
 #### Setting up Wireless
 The important part is to make sure that our wireless is protected, so the first step is the security profile.
 ```bash
@@ -158,6 +164,7 @@ The last step is to add a wireless interface to a local bridge, otherwise connec
 /interface bridge port add interface=wlan1 bridge=bridge1
 ```
 
+---
 #### Protecting the Clients
 Now it is time to add some protection for clients on our LAN. We will start with a basic set of rules.
 ```bash
@@ -170,6 +177,7 @@ A ruleset is similar to input chain rules (accept established/related and drop i
 
 Another difference is the last rule which drops all new connection attempts from the WAN port to our LAN network (unless DstNat is used). Without this rule, if an attacker knows or guesses your local subnet, he/she can establish connections directly to local hosts and cause a security threat.
 
+---
 #### Blocking Unwanted Websites
 Sometimes you may want to block certain websites, for example, deny access to entertainment sites for employees, deny access to porn, and so on. This can be achieved by redirecting HTTP traffic to a proxy server and use an access-list to allow or deny certain websites.
 
@@ -186,6 +194,7 @@ Enable web proxy and drop some websites:
 /ip proxy access add dst-host=:vimeo action=deny`
 ```
 
+---
 #### Troubleshoot if ping fails
 ![[troubleshoot_if_ping_fails.jpg]]
 
