@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3258d20b70d64dca",
+        "id": "7aa57528d5b2e85a",
         "type": "tabs",
         "children": [
           {
-            "id": "cc2f42d3ae462584",
+            "id": "656cddba2628323d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc2f42d3ae462584",
+  "active": "656cddba2628323d",
   "lastOpenFiles": [
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 and IPv6 Fundamentals.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/ARP.md",
     "001_Network and system enginering/Linux/passwd.md",
     "001_Network and system enginering/Hardware/Hardware.md",
     "001_Network and system enginering/Hardware/Типы Оперативной Памяти.md",
@@ -200,8 +202,6 @@
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
     "001_Network and system enginering/Networking/RouterOS/RouterOS.md",
-    "SECOND BRAIN.md",
-    "_templates/Instruction.md",
     "Archive",
     "Inbox",
     "_templates",
