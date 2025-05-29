@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "656cddba2628323d",
+            "id": "7da6df7846ebc04f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "656cddba2628323d",
+  "active": "7da6df7846ebc04f",
   "lastOpenFiles": [
+    "003_Personal/Sport/Bodyweight active exercises.md",
+    "003_Personal/Sport/Sport.md",
+    "SECOND BRAIN.md",
+    "Obsidian help.md",
+    "003_Personal/Sport",
+    "003_Personal",
+    "Untitled 1.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 and IPv6 Fundamentals.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/ARP.md",
     "001_Network and system enginering/Linux/passwd.md",
@@ -197,11 +204,6 @@
     "_templates/Command.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Basic RouterOS Configuration.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Backup.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
-    "001_Network and system enginering/Networking/RouterOS/RouterOS.md",
     "Archive",
     "Inbox",
     "_templates",
@@ -213,8 +215,6 @@
     "_cache/Pasted image 20250512141907.png",
     "Network and system enginering/Networking/RouterOS/Basic configuration/Untitled",
     "_cache/Pasted image 20250512112142.png",
-    "001_Network and system enginering/Networking/TCP IP",
-    "_Books/[Networking]_kurose_james_f_ross_keith_w_computer_networking_a_topdown_ap.pdf",
     "Untitled.canvas",
     "_cache/troubleshoot_if_ping_fails.jpg",
     "_cache/winbox_wlan_iface.png",
