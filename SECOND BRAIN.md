@@ -2,7 +2,7 @@
 - [[001_Network and system enginering/SSH|SSH]]
 ## [[Hardware]]
 ## Networking
-- #### [[TCP IP]]
+- #### [[001_Network and system enginering/Networking/TCP IP/TCP IP]]
 - [[TCP-IP и OSI модель]]
 ### [[RouterOS]]
 ## [[Linux]]

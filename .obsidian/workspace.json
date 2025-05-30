@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7aa57528d5b2e85a",
+        "id": "7d0aca870abf0158",
         "type": "tabs",
         "children": [
           {
-            "id": "7da6df7846ebc04f",
+            "id": "140cb2f35d70e830",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7da6df7846ebc04f",
+  "active": "140cb2f35d70e830",
   "lastOpenFiles": [
+    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Firewall.md",
+    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/MikrotikTraining Roadmap.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/TCP IP.md",
+    "_cache/tcp-connection-establishment 1.jpg",
+    "_cache/tcp-connection-establishment.jpg",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/ARP.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 and IPv6 Fundamentals.md",
     "003_Personal/Sport/Bodyweight active exercises.md",
     "003_Personal/Sport/Sport.md",
     "SECOND BRAIN.md",
@@ -183,8 +190,6 @@
     "003_Personal/Sport",
     "003_Personal",
     "Untitled 1.md",
-    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 and IPv6 Fundamentals.md",
-    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/ARP.md",
     "001_Network and system enginering/Linux/passwd.md",
     "001_Network and system enginering/Hardware/Hardware.md",
     "001_Network and system enginering/Hardware/Типы Оперативной Памяти.md",
@@ -201,9 +206,6 @@
     "001_Network and system enginering/Linux/Block size.md",
     "001_Network and system enginering/Linux/blank1.md",
     "_templates/Information.md",
-    "_templates/Command.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Basic RouterOS Configuration.md",
     "Archive",
     "Inbox",
     "_templates",
@@ -220,8 +222,6 @@
     "_cache/winbox_wlan_iface.png",
     "_cache/winbox_wlan_sec_profile.png",
     "_cache/Pasted image 20240502140421.png",
-    "_cache/Pasted image 20240502140831.png",
-    "_cache/Pasted image 20240502141610.png",
-    "_cache/Pasted image 20240502142135.png"
+    "_cache/Pasted image 20240502140831.png"
   ]
 }
