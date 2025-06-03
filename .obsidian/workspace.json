@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f85b8e4720fbe03",
+        "id": "0ba37a5e390efe46",
         "type": "tabs",
         "children": [
           {
-            "id": "02c2c5d54301ea63",
+            "id": "afaa7824439ee175",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02c2c5d54301ea63",
+  "active": "8bae71f01f0f84cb",
   "lastOpenFiles": [
     "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Firewall.md",
     "_Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
