@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba37a5e390efe46",
+        "id": "f3d02c95a1ec4e79",
         "type": "tabs",
         "children": [
           {
-            "id": "afaa7824439ee175",
+            "id": "3993d2590d24cfec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Резервирование в Mikrotik.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Резервирование в Mikrotik"
             }
           }
         ]
@@ -174,9 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bae71f01f0f84cb",
+  "active": "3993d2590d24cfec",
   "lastOpenFiles": [
+    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/MikrotikTraining Roadmap.md",
+    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Резервирование в Mikrotik.md",
     "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Firewall.md",
+    "001_Network and system enginering/Networking/RouterOS/RouterOS.md",
+    "SECOND BRAIN.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/ARP.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 and IPv6 Fundamentals.md",
     "_Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Basic RouterOS Configuration.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
@@ -188,17 +198,12 @@
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/TCP IP.md",
-    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/MikrotikTraining Roadmap.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 Adressing.md",
-    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 and IPv6 Fundamentals.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv6 Adressing.md",
     "Untitled 1.md",
-    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/ARP.md",
     "_cache/tcp-flow-control-using-windowing.jpg",
     "_cache/tcp-connection-termination 1.jpg",
     "_cache/tcp-connection-termination.jpg",
-    "001_Network and system enginering/Networking/RouterOS/RouterOS.md",
-    "SECOND BRAIN.md",
     "_cache/tcp-connection-establishment 1.jpg",
     "_cache/tcp-connection-establishment.jpg",
     "003_Personal/Sport/Bodyweight active exercises.md",

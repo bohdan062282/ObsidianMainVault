@@ -2,7 +2,7 @@
 Category: Information
 tags:
   - information
-  - draft
+  - open
 ---
 ---
 ###### External links
@@ -72,6 +72,7 @@ tags:
 
 ---
 ## Notes
-
+- адрес лист загружиает я так понял и флешку и оперу
+- 
 
 ---
