@@ -12,6 +12,7 @@ tags:
 ---
 ## Table of contents
 - [[RouterOS Skills Stack]]
+- [[Basic universal firewall script]]
 - 
 
 - ### Chapters

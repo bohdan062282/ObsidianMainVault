@@ -2,7 +2,7 @@
 Category: Information
 tags:
   - information
-  - draft
+  - open
 ---
 ---
 ###### External links
