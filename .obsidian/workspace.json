@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d45a811f22a7188e",
+        "id": "7b496c2661cc9f70",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2eb92118657fb1",
+            "id": "f06d6362c0165de8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,15 +174,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed2eb92118657fb1",
+  "active": "f06d6362c0165de8",
   "lastOpenFiles": [
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
+    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
+    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Reset.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Basic RouterOS Configuration.md",
+    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Резервирование в Mikrotik.md",
+    "003_Personal/Sport/Bodyweight active exercises.md",
+    "003_Personal/Sport/Sport.md",
+    "SECOND BRAIN.md",
+    "001_Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
     "001_Network and system enginering/Networking/RouterOS/RouterOS.md",
     "001_Network and system enginering/Networking/RouterOS/Basic universal firewall script.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
     "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Firewall.md",
-    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Резервирование в Mikrotik.md",
     "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/MikrotikTraining Roadmap.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/TCP IP.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 and IPv6 Fundamentals.md",
@@ -191,18 +196,13 @@
     "001_Network and system enginering/Windows/SFC.md",
     "001_Network and system enginering/Windows/Проверка и восстановление системного образа Windows 10 и 11.md",
     "001_Network and system enginering/Windows/DISM.md",
-    "003_Personal/Sport/Bodyweight active exercises.md",
     "001_Network and system enginering/Linux/Пакетные менеджеры.md",
     "001_Network and system enginering/Linux/Fedora install.md",
     "001_Network and system enginering/Linux/Типы пакетов Linux.md",
     "2025-06-09.md",
     "001_Network and system enginering/Linux/blank1.md",
-    "SECOND BRAIN.md",
     "_Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Backup.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Reset.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Console.md",
     "_cache/tcp-flow-control-using-windowing.jpg",
     "_cache/tcp-connection-termination 1.jpg",
     "_cache/tcp-connection-termination.jpg",
