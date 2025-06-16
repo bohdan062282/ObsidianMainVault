@@ -16,9 +16,9 @@ tags:
 - 
 
 - ### Chapters
-	- **[[Basic RouterOS Configuration]]**
-	- **[[IPv4 and IPv6 Fundamentals]]**
-	- **[[MikrotikTraining Roadmap]]**
+	- **[[★ Basic RouterOS Configuration]]**
+	- **[[★ IPv4 and IPv6 Fundamentals]]**
+	- **[[★ MikrotikTraining Roadmap]]**
 
 ---
 ## Core information

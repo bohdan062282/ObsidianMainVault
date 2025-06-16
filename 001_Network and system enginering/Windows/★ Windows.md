@@ -1,3 +1,15 @@
+---
+Category: Main Chapter
+tags:
+  - mainChapter
+  - open
+  - windows
+---
+---
+###### External links
+
+---
+## Table of contents
 - [[Run]]
 - [[Runas]]
 - [[Shutdown]]
@@ -8,5 +20,12 @@
 - [[SFC]]
 - [[DISM]]
 - [[При установке Windows 11]]
+- **[[Powershell]]**
 
-**[[Powershell]]**
+- ### Chapters
+	- 
+
+---
+## Core information
+
+

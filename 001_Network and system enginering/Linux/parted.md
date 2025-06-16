@@ -1,3 +1,18 @@
+---
+Category: Command
+tags:
+  - command
+  - linux
+  - draft
+---
+###### External Links
+
+---
+### Description
+
+
+---
+### Basic syntax
 `parted –v`
 
 `print`
@@ -33,3 +48,10 @@
 
 Если вам требуется удалить раздел на диске, вы можете использовать команду rm в оболочке parted:
 `# rm 1`
+
+---
+### Examples
+
+
+---
+

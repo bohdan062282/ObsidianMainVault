@@ -1,4 +1,0 @@
-*Change password*
-
-`passwd [user]`
-

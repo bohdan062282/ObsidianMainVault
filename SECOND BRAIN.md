@@ -1,16 +1,16 @@
 - [[Obsidian help]]
 - [[001_Network and system enginering/SSH|SSH]]
-## [[Hardware]]
+## [[★ Hardware]]
 ## Networking
-- #### [[001_Network and system enginering/Networking/TCP IP/TCP IP]]
+- #### [[★ TCP IP]]
 - [[TCP-IP и OSI модель]]
-### [[RouterOS]]
-## [[Linux]]
-## [[Windows]]
+### [[★ RouterOS]]
+## [[★ LINUX]]
+## [[★ Windows]]
 ## [[Unity]]
 - [[Important links]]
 ## Personal
-### [[Sport]]
+- ### [[★ Sport]]
 
 
 
