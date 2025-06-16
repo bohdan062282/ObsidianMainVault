@@ -13,7 +13,6 @@ tags:
 ## Table of contents
 - [[Типы пакетов Linux]]
 - [[Пакетные менеджеры]]
-- [[Block size]]
 - [[001_Network and system enginering/Linux/ssh|ssh]]
 - ### Manuals
 	- [[Git Auth]]
@@ -23,6 +22,8 @@ tags:
 	- [[parted]]
 	- [[mkfs]]
 	- [[sync]]
+	- [[wget]]
+	- 
 
 - ### Chapters
 	- 

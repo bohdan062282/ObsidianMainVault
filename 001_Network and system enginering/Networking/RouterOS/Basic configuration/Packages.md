@@ -1,7 +1,17 @@
-- *По дефолту лочше проверять логи после ребута, потому что какие-то пакеты могут требовать совместимость или зависимости.*
-- *Если зааплоадить файл с названием ".auto.npk" то по идее будет афтоапдейт но возможно если закинуть по фпт или сфтп.*
+---
+Category: Information
+tags:
+  - information
+  - open
+---
+---
+###### External links
+- 
+---
+## Description
 
-
+---
+## Packages
 ### System packages
 
 |                                |                                                          |
@@ -59,3 +69,11 @@ Commands executed in this menu will take place only on restart of the router. Un
 The "Check installation" function ensures the integrity of the RouterOS system by verifying the readability and correct placement of files. Its primary purpose is to confirm the health and status of your NAND/Flash storage.
 
 **Menu:** _/system/package/update install ignore-missing_ command allows upgrading only the RouterOS main package, while omitting packages that are either missing or not uploaded during a manual upgrade process.
+
+---
+## Notes
+- *По дефолту лочше проверять логи после ребута, потому что какие-то пакеты могут требовать совместимость или зависимости.*
+- *Если зааплоадить файл с названием ".auto.npk" то по идее будет афтоапдейт но возможно если закинуть по фпт или сфтп.*
+
+---
+

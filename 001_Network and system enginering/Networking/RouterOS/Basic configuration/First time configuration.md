@@ -1,20 +1,22 @@
+---
+Category: Instruction
+tags:
+  - instruction
+  - open
+---
+---
+###### External links
+- 
+## Description
 There are two types of routers:
 - Routers with default configuration.
 - Routers without default configuration. In cases where no specific configuration is present, the IP address 192.168.88.1/24 is assigned to ether1, combo1, sfp1, or MGMT/BOOT.
 When connecting the first time to the router with the default username **admin** and **no password** (or, for some models, check user and wireless passwords on the sticker).
 
-- *Для любой команды по идее есть - print (после него можно detail), add и remove*
-- *И все команды по сути почти сохраняют иерархию интерфейса или наоборот*
-- *Для каждого правила есть edit*
-- *Для каждого правила можно set НОМЕР ПОЛЕ=ЗНАЧЕНИЕ*
-- *Для каждого правила есть disabled=yes, no*
-- *Что бы сделать какое-то поле пустим, которое может біть таким, например список, нужно просто set ПАРАМЕТР=""*
-- *Некоторые правила имеют параметр comment=*
 - *Print можно дополнить фильтром по параметру, например: /ip firewall filter print where chain=forward*
-- *Правила можно перемещать: move destination=НОВАЯ_ПОЗИЦИЯ*
-- 
 
 ---
+## Manual
 #### Def conf
 The easiest method to ensure a completely clean router is to run the CLI command:
 ```bash
@@ -37,11 +39,9 @@ The easiest method to ensure a completely clean router is to run the CLI command
 #### DHCP server
 To simplify and expedite this process, we'll execute the **setup** command.
 *По сути сетап еще сам создает айпипул и нетворк и их использует*
-
 ```bash
 /ip dhcp-server setup [enter]
 ```
-
 *Сеть указывается через слеш - `192.168.88.0/24`*
 *Пул адресов через тире - `192.168.88.2-192.168.88.254`*
 *По идее через запятую можно параметры вписывать*
@@ -49,80 +49,78 @@ To simplify and expedite this process, we'll execute the **setup** command.
 
 ---
 #### Configuring Internet Connection
-#####  Dynamic Public IP
-Dynamic address configuration is the easiest option. Simply set up a DHCP client on the public interface. The DHCP client will obtain information from your Internet Service Provider (ISP), such as an IP address, DNS servers, NTP servers, and default route, making the setup process straightforward for you.
+- ##### Dynamic Public IP
+	Dynamic address configuration is the easiest option. Simply set up a DHCP client on the public interface. The DHCP client will obtain information from your Internet Service Provider (ISP), such as an IP address, DNS servers, NTP servers, and default route, making the setup process straightforward for you.
+	```bash
+	/ip dhcp-client add disabled=no interface=ether1
+	```
 
+- ##### Static Public IP
+	To configure this in RouterOS, we'll manually add an IP address, add a default route with a provided gateway, and set up a DNS server
+	```bash
+	/ip address add address=1.2.3.100/24 interface=ether1
+	/ip route add gateway=1.2.3.1
+	/ip dns set servers=8.8.8.8
+	```
+
+- ##### PPPoE Connection
 ```bash
-/ip dhcp-client add disabled=no interface=ether1
-```
-
-#####  Static Public IP
-To configure this in RouterOS, we'll manually add an IP address, add a default route with a provided gateway, and set up a DNS server
-
-```bash
-/ip address add address=1.2.3.100/24 interface=ether1
-/ip route add gateway=1.2.3.1
-/ip dns set servers=8.8.8.8
-```
-
-#####  PPPoE Connection
-```bash
-/interface pppoe-client add disabled=no interface=ether1 user=me password=123 add-default-route=yes use-peer-dns=yes`
+	/interface pppoe-client add disabled=no interface=ether1 user=me password=123 add-default-route=yes use-peer-dns=yes`
 ```
 
 ---
 #### Protecting the router
 
-#####  [[Securing basics#User and pass]]
+- ##### [[Securing basics#User and pass]]
 
-#####  Interface list
-Создать интерфейс-лист и добавить в интерфейс-лист интерфейс:
-```bash
-/interface list add name=LAN
-/interface list member add list=LAN interface=bridge1
-```
+- ##### Interface list
+	Создать интерфейс-лист и добавить в интерфейс-лист интерфейс:
+	```bash
+	/interface list add name=LAN
+	/interface list member add list=LAN interface=bridge1
+	```
 
-#####  [[Securing basics#MAC-access]]
+- ##### [[Securing basics#MAC-access]]
 
-#####  [[Securing basics#Neighbor Discovery]]
+- ##### [[Securing basics#Neighbor Discovery]]
 
-#####  IP Connectivity Access
-To add allowed addresses for user:
-```bash
-/user set 0 address=x.x.x.x/yy
-```
-*x.x.x.x/yy - your IP or network subnet that is allowed to access your router*
+- ##### IP Connectivity Access
+	To add allowed addresses for user:
+	```bash
+	/user set 0 address=x.x.x.x/yy
+	```
+	*x.x.x.x/yy - your IP or network subnet that is allowed to access your router*
+	
+	IP connectivity on the public interface must be limited in the firewall. We will accept only ICMP(ping/traceroute), IP Winbox, and ssh access:
+	```bash
+	/ip firewall filter add chain=input action=accept connection-state=established,related,untracked comment="accept established,related,untracked"
+	add chain=input action=drop connection-state=invalid comment="drop invalid"
+	add chain=input in-interface=ether1 action=accept protocol=icmp comment="accept ICMP"
+	add chain=input in-interface=ether1 action=accept protocol=tcp port=8291 comment="allow Winbox";
+	add chain=input in-interface=ether1 action=accept protocol=tcp port=22 comment="allow SSH";
+	add chain=input in-interface=ether1 action=drop comment="block everything else";
+	```
+	
+	Most of RouterOS administrative tools are configured at  the /ip service menu
+	- Keep only secure ones
+	- Change default service ports, this will immediately stop most of the random SSH brute force login attempts
+	```bash
+	/ip service disable telnet,ftp,www,api
+	/ip service set ssh port=2200
+	```
+	
+	Additionally, each service can be secured by allowed IP address or address range(the address service will reply to), although more preferred method is to block unwanted access in firewall because the firewall will not even allow to open socket
+	```bash
+	/ip service set winbox address=192.168.88.0/24
+	```
 
-IP connectivity on the public interface must be limited in the firewall. We will accept only ICMP(ping/traceroute), IP Winbox, and ssh access:
-```bash
-/ip firewall filter add chain=input action=accept connection-state=established,related,untracked comment="accept established,related,untracked"
-add chain=input action=drop connection-state=invalid comment="drop invalid"
-add chain=input in-interface=ether1 action=accept protocol=icmp comment="accept ICMP"
-add chain=input in-interface=ether1 action=accept protocol=tcp port=8291 comment="allow Winbox";
-add chain=input in-interface=ether1 action=accept protocol=tcp port=22 comment="allow SSH";
-add chain=input in-interface=ether1 action=drop comment="block everything else";
-```
-
-Most of RouterOS administrative tools are configured at  the /ip service menu
-- Keep only secure ones
-- Change default service ports, this will immediately stop most of the random SSH brute force login attempts
-```bash
-/ip service disable telnet,ftp,www,api
-/ip service set ssh port=2200
-```
-
-Additionally, each service can be secured by allowed IP address or address range(the address service will reply to), although more preferred method is to block unwanted access in firewall because the firewall will not even allow to open socket
-```bash
-/ip service set winbox address=192.168.88.0/24
-```
-
-#####  Other Services
-- [[Securing basics#Bandwidth server]]
-- [[Securing basics#DNS Cache]]
-- [[Securing basics#Other Clients Services]]
-- [[Securing basics#LCD]]
-- [[Securing basics#Ethernet/SFP interfaces]]
-- [[Securing basics#More Secure SSH access]]
+- ##### Other Services
+	- [[Securing basics#Bandwidth server]]
+	- [[Securing basics#DNS Cache]]
+	- [[Securing basics#Other Clients Services]]
+	- [[Securing basics#LCD]]
+	- [[Securing basics#Ethernet/SFP interfaces]]
+	- [[Securing basics#More Secure SSH access]]
 
 ---
 #### NAT Configuration
@@ -131,12 +129,12 @@ Additionally, each service can be secured by allowed IP address or address range
 add chain=srcnat out-interface=ether1 action=masquerade
 ```
 
-#####  Port Forwarding
-After a quick search on Google, we find out that RDP runs on TCP port 3389. Now we can add a destination NAT rule to redirect RDP to the client's PC.
-```bash
-/ip firewall nat add chain=dstnat protocol=tcp port=3389 in-interface=ether1 action=dst-nat to-address=192.168.88.254
-```
-*If you have set up strict firewall rules then RDP protocol must be allowed in the firewall filter forward chain.*
+- ##### Port Forwarding
+	After a quick search on Google, we find out that RDP runs on TCP port 3389. Now we can add a destination NAT rule to redirect RDP to the client's PC.
+	```bash
+	/ip firewall nat add chain=dstnat protocol=tcp port=3389 in-interface=ether1 action=dst-nat to-address=192.168.88.254
+	```
+	*If you have set up strict firewall rules then RDP protocol must be allowed in the firewall filter forward chain.*
 
 ---
 #### Setting up Wireless
@@ -195,6 +193,11 @@ Enable web proxy and drop some websites:
 ```
 
 ---
+## Notes
 #### Troubleshoot if ping fails
 ![[troubleshoot_if_ping_fails.jpg]]
 
+
+
+
+---

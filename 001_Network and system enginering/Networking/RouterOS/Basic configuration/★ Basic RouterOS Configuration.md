@@ -11,8 +11,7 @@ tags:
 ## Table of contents
 - [[First time configuration]]
 - [[Securing basics]]
-- [[Upgrading and installation]]
-- [[Packages]]
+- [[Upgrading and installation]]!
 - [[Configuration Management]]
 - [[Console]]
 - [[Reset]]
