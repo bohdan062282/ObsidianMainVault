@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e969fdbf6b817548",
+        "id": "53afaaa3c6f0f9e6",
         "type": "tabs",
         "children": [
           {
-            "id": "9b3f26ee6d02da15",
+            "id": "64168d919d283222",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,9 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b3f26ee6d02da15",
+  "active": "64168d919d283222",
   "lastOpenFiles": [
+    "001_Network and system enginering/Linux/apt.md",
+    "001_Network and system enginering/Linux/Типы пакетов Linux.md",
+    "001_Network and system enginering/Linux/parted.md",
     "001_Network and system enginering/Linux/dd.md",
+    "001_Network and system enginering/Linux/Sync.md",
     "001_Network and system enginering/Linux/★ LINUX.md",
     "001_Network and system enginering/Linux/wget.md",
     "001_Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
@@ -200,10 +204,6 @@
     "001_Network and system enginering/Networking/TCP IP/Ethernet and the IEEE 802 LAN MAN Standards.md",
     "001_Network and system enginering/Networking/TCP IP/★ TCP IP.md",
     "SECOND BRAIN.md",
-    "001_Network and system enginering/Networking/TCP IP/TCP-IP и OSI модель.md",
-    "001_Network and system enginering/Networking/RouterOS/★ RouterOS.md",
-    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/★ MikrotikTraining Roadmap.md",
-    "001_Network and system enginering/Windows/★ Windows.md",
     "_Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
     "_cache/tcp-flow-control-using-windowing.jpg",
     "_cache/tcp-connection-termination 1.jpg",
