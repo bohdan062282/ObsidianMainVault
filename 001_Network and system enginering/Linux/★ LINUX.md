@@ -18,16 +18,36 @@ tags:
 	- [[Git Auth]]
 	- [[Fedora install]]
 - ### Commands
-	- [[cd]]
-	- [[ls]]
-	- [[find]]
-	- [[file]]
-	- [[tail]]
-	- [[history]]
-	- [[cp]]
-	- [[mkdir]]
-	- [[rm]]
-	- 
+	- #### Основа CLI
+		- ##### Навигация по файловой системе
+			- pwd
+			- [[cd]]
+			- [[ls]]
+			- [[find]]
+		- ##### Работа с файлами и папками
+			- touch
+			- [[cp]]
+			- mv
+			- [[mkdir]]
+			- [[rm]]
+		- ##### Просмотр содержимого:
+			- [[file]]
+			- cat
+			- less
+			- head
+			- [[tail]]
+		- ##### Хелпа:
+			- help
+			- tldr
+			- whatis
+			- man
+		- ##### Работа с архивами: `tar`, `gzip`, `xz`
+		- Поиск: `find`, `locate`, `grep`
+		- Редакторы: `nano`, `vim` (основы)
+		- [[history]]
+		- [[alias]]
+		- 
+		- 
 	- 
 	- [[dd]]
 	- 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5224fd120d28a6e6",
+        "id": "2e75b8a950d0f4ac",
         "type": "tabs",
         "children": [
           {
-            "id": "9f813185686c6b11",
+            "id": "6d3c6df8dabf8f6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_Network and system enginering/Linux/★ LINUX.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "★ LINUX"
+              "title": "New tab"
             }
           }
         ]
@@ -178,16 +174,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f813185686c6b11",
+  "active": "6d3c6df8dabf8f6c",
   "lastOpenFiles": [
-    "001_Network and system enginering/Linux/rm.md",
     "001_Network and system enginering/Linux/★ LINUX.md",
+    "001_Network and system enginering/Linux/alias.md",
+    "001_Network and system enginering/Linux/history.md",
+    "001_Network and system enginering/Linux/find.md",
+    "001_Network and system enginering/Linux/file.md",
+    "001_Network and system enginering/Linux/rm.md",
     "001_Network and system enginering/Linux/mkdir.md",
     "001_Network and system enginering/Linux/cp.md",
-    "001_Network and system enginering/Linux/history.md",
     "001_Network and system enginering/Linux/tail.md",
-    "001_Network and system enginering/Linux/file.md",
-    "001_Network and system enginering/Linux/find.md",
     "001_Network and system enginering/Linux/ls.md",
     "001_Network and system enginering/Linux/cd.md",
     "001_Network and system enginering/Linux/Типы пакетов Linux.md",
@@ -205,7 +202,6 @@
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 Adressing.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv6 Adressing.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/TCP IP.md",
-    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Резервирование в Mikrotik.md",
     "_Books/[System]_Внутреннее_устройство_линукс.pdf",
     "_Books/[SYSTEM]_Внутреннее устройство Linux.pdf",
     "_Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
