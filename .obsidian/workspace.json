@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "53afaaa3c6f0f9e6",
+        "id": "5224fd120d28a6e6",
         "type": "tabs",
         "children": [
           {
-            "id": "64168d919d283222",
+            "id": "9f813185686c6b11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001_Network and system enginering/Linux/★ LINUX.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "★ LINUX"
             }
           }
         ]
@@ -174,36 +178,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64168d919d283222",
+  "active": "9f813185686c6b11",
   "lastOpenFiles": [
-    "001_Network and system enginering/Linux/apt.md",
-    "001_Network and system enginering/Linux/Типы пакетов Linux.md",
-    "001_Network and system enginering/Linux/parted.md",
-    "001_Network and system enginering/Linux/dd.md",
-    "001_Network and system enginering/Linux/Sync.md",
+    "001_Network and system enginering/Linux/rm.md",
     "001_Network and system enginering/Linux/★ LINUX.md",
-    "001_Network and system enginering/Linux/wget.md",
-    "001_Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic universal firewall script.md",
-    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/★ IPv4 and IPv6 Fundamentals.md",
-    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 Adressing.md",
-    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/TCP IP.md",
-    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/ARP.md",
+    "001_Network and system enginering/Linux/mkdir.md",
+    "001_Network and system enginering/Linux/cp.md",
+    "001_Network and system enginering/Linux/history.md",
+    "001_Network and system enginering/Linux/tail.md",
+    "001_Network and system enginering/Linux/file.md",
+    "001_Network and system enginering/Linux/find.md",
+    "001_Network and system enginering/Linux/ls.md",
+    "001_Network and system enginering/Linux/cd.md",
+    "001_Network and system enginering/Linux/Типы пакетов Linux.md",
+    "001_Network and system enginering/Linux/Пакетные менеджеры.md",
+    "001_Network and system enginering/Linux/apt.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/★ Basic RouterOS Configuration.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
+    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Firewall.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
+    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
+    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
-    "001_Network and system enginering/Linux/Block size.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/★ IPv4 and IPv6 Fundamentals.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/ARP.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 Adressing.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv6 Adressing.md",
+    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/TCP IP.md",
+    "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Резервирование в Mikrotik.md",
     "_Books/[System]_Внутреннее_устройство_линукс.pdf",
-    "001_Network and system enginering/Hardware/Типы Оперативной Памяти.md",
-    "001_Network and system enginering/Hardware/Маркировка Модулей Памяти.md",
     "_Books/[SYSTEM]_Внутреннее устройство Linux.pdf",
-    "Untitled.md",
-    "001_Network and system enginering/Networking/TCP IP/Ethernet and the IEEE 802 LAN MAN Standards.md",
-    "001_Network and system enginering/Networking/TCP IP/★ TCP IP.md",
-    "SECOND BRAIN.md",
     "_Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",
     "_cache/tcp-flow-control-using-windowing.jpg",
     "_cache/tcp-connection-termination 1.jpg",

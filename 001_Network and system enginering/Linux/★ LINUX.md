@@ -18,7 +18,19 @@ tags:
 	- [[Git Auth]]
 	- [[Fedora install]]
 - ### Commands
+	- [[cd]]
+	- [[ls]]
+	- [[find]]
+	- [[file]]
+	- [[tail]]
+	- [[history]]
+	- [[cp]]
+	- [[mkdir]]
+	- [[rm]]
+	- 
+	- 
 	- [[dd]]
+	- 
 	- [[parted]]
 	- [[mkfs]]
 	- [[sync]]
