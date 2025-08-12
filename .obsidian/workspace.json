@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2e75b8a950d0f4ac",
+        "id": "433fe3b67d00b123",
         "type": "tabs",
         "children": [
           {
-            "id": "6d3c6df8dabf8f6c",
+            "id": "90f68a9cfd598a9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001_Network and system enginering/Linux/★ LINUX.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "★ LINUX"
+            }
+          },
+          {
+            "id": "efc18e25de0db95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_Network and system enginering/Linux/history.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "history"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,9 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d3c6df8dabf8f6c",
+  "active": "efc18e25de0db95b",
   "lastOpenFiles": [
     "001_Network and system enginering/Linux/★ LINUX.md",
+    "001_Network and system enginering/Linux/ls.md",
+    "001_Network and system enginering/Linux/STD streams.md",
     "001_Network and system enginering/Linux/alias.md",
     "001_Network and system enginering/Linux/history.md",
     "001_Network and system enginering/Linux/find.md",
@@ -185,7 +206,6 @@
     "001_Network and system enginering/Linux/mkdir.md",
     "001_Network and system enginering/Linux/cp.md",
     "001_Network and system enginering/Linux/tail.md",
-    "001_Network and system enginering/Linux/ls.md",
     "001_Network and system enginering/Linux/cd.md",
     "001_Network and system enginering/Linux/Типы пакетов Linux.md",
     "001_Network and system enginering/Linux/Пакетные менеджеры.md",
@@ -201,7 +221,6 @@
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/ARP.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv4 Adressing.md",
     "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/IPv6 Adressing.md",
-    "001_Network and system enginering/Networking/RouterOS/IP Fundamentals/TCP IP.md",
     "_Books/[System]_Внутреннее_устройство_линукс.pdf",
     "_Books/[SYSTEM]_Внутреннее устройство Linux.pdf",
     "_Books/[TCP_IP]_Stevens W.R. TCP IP Illustrated - The Protocols, Vol.1.pdf",

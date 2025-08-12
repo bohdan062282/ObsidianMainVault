@@ -18,7 +18,7 @@ tags:
 	- [[Git Auth]]
 	- [[Fedora install]]
 - ### Commands
-	- #### Основа CLI
+	- #### CLI Fundamentals
 		- ##### Навигация по файловой системе
 			- pwd
 			- [[cd]]
@@ -43,14 +43,14 @@ tags:
 			- man
 		- ##### Работа с архивами: `tar`, `gzip`, `xz`
 		- Поиск: `find`, `locate`, `grep`
-		- Редакторы: `nano`, `vim` (основы)
+		- Ссылки: `ln -s`
 		- [[history]]
 		- [[alias]]
-		- 
+	- #### Text manipulation and navigation
+		- [[STD streams]]
 		- 
 	- 
 	- [[dd]]
-	- 
 	- [[parted]]
 	- [[mkfs]]
 	- [[sync]]
