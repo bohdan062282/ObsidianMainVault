@@ -17,7 +17,7 @@ tags:
 - ### Manuals
 	- [[Git Auth]]
 	- [[Fedora install]]
-- ### Commands
+- ### Basics
 	- #### CLI Fundamentals
 		- ##### Навигация по файловой системе
 			- pwd
@@ -34,8 +34,6 @@ tags:
 			- [[file]]
 			- cat
 			- less
-			- head
-			- [[tail]]
 		- ##### Хелпа:
 			- help
 			- tldr
@@ -46,14 +44,23 @@ tags:
 		- Ссылки: `ln -s`
 		- [[history]]
 		- [[alias]]
+		- [[env]]
+		- 
 	- #### Text manipulation and navigation
 		- [[STD streams]]
+		- [[cut]]
+		- [[paste]]
+		- head
+		- [[tail]]
+		- [[join]]
+		- [[split]]
+		- 
 		- 
 	- 
 	- [[dd]]
 	- [[parted]]
 	- [[mkfs]]
-	- [[sync]]
+	- [[Sync]]
 	- [[wget]]
 	- 
 
