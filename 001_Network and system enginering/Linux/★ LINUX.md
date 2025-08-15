@@ -24,16 +24,14 @@ tags:
 			- [[cd]]
 			- [[ls]]
 			- [[find]]
+			- [[locate]]
 		- ##### Работа с файлами и папками
 			- touch
 			- [[cp]]
 			- mv
 			- [[mkdir]]
 			- [[rm]]
-		- ##### Просмотр содержимого:
 			- [[file]]
-			- cat
-			- less
 		- ##### Хелпа:
 			- help
 			- tldr
@@ -45,16 +43,28 @@ tags:
 		- [[history]]
 		- [[alias]]
 		- [[env]]
-		- 
+		- [[links]]
 	- #### Text manipulation and navigation
 		- [[STD streams]]
+		- [[Regular expressions]]
+		- [[vim]]
+		- cat
+		- less
 		- [[cut]]
 		- [[paste]]
 		- head
 		- [[tail]]
+		- [[expand]]
 		- [[join]]
 		- [[split]]
-		- 
+		- [[sort]]
+		- [[tr]]
+		- [[uniq]]
+		- wc (количество строк слов байт)
+		- nl (нумерация строк (по умолчанию: не нулевые))
+		- [[grep]]
+	- #### Users and permissions
+		- [[sudoers file]]
 		- 
 	- 
 	- [[dd]]
