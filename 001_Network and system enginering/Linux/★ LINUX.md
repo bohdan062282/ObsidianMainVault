@@ -64,7 +64,8 @@ tags:
 		- nl (нумерация строк (по умолчанию: не нулевые))
 		- [[grep]]
 	- #### Users and permissions
-		- [[sudoers file]]
+		- [[User files]]
+		- 
 		- 
 	- 
 	- [[dd]]
@@ -72,6 +73,7 @@ tags:
 	- [[mkfs]]
 	- [[Sync]]
 	- [[wget]]
+	- 
 	- 
 
 - ### Chapters
