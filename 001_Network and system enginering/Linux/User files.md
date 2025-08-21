@@ -88,8 +88,6 @@ tags:
 	- `100–999` — служебные аккаунты/демоны
 	- `1000+` — обычные пользователи (в Debian/Ubuntu, в других дистрибутивах может быть по-другому)
 
-*Для редактирования файла используется `visudo`.*
-
 
 ### Shadow file
 ---
@@ -142,5 +140,9 @@ Another file used in user management is the `/etc/group` file. This file allows 
 groups username
 id username
 ```
+
+- *Для редактирования этих вайлов нужно юзать `vipw`*
+- 
+
 
 ---

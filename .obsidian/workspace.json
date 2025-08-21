@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dbfbcdf5247a2646",
+        "id": "7426035f3fcc8fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "258fc1955f2889d7",
+            "id": "0171b9dc1d288de1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001_Network and system enginering/Linux/Commands/mc.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "mc"
             }
           }
         ]
@@ -165,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,10 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "258fc1955f2889d7",
+  "active": "0171b9dc1d288de1",
   "lastOpenFiles": [
-    "001_Network and system enginering/Linux/★ LINUX.md",
+    "001_Network and system enginering/Linux/Commands/parted.md",
     "001_Network and system enginering/Linux/User files.md",
+    "001_Network and system enginering/Linux/User management tools.md",
+    "001_Network and system enginering/Linux/★ LINUX.md",
     "001_Network and system enginering/Linux/shadow file.md",
     "001_Network and system enginering/Linux/passwd file.md",
     "001_Network and system enginering/Linux/sudoers file.md",
@@ -210,8 +217,6 @@
     "001_Network and system enginering/Linux/Commands/uniq.md",
     "001_Network and system enginering/Linux/Commands/tr.md",
     "001_Network and system enginering/Linux/Commands/sort.md",
-    "001_Network and system enginering/Linux/Commands/file.md",
-    "001_Network and system enginering/Linux/Commands/split.md",
     "001_Network and system enginering/Linux/Commands",
     "_Books/[System]_Внутреннее_устройство_линукс.pdf",
     "_Books/[SYSTEM]_Внутреннее устройство Linux.pdf",
