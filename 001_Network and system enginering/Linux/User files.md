@@ -60,6 +60,8 @@ tags:
 	sudo -l   # показывает, что именно разрешено текущему пользователю
 	```
 
+*Дефолтная група по идее должна быть `root` если оставить пустой.*
+
 
 ### Passwd file
 ---
@@ -135,11 +137,6 @@ Another file used in user management is the `/etc/group` file. This file allows 
 
 ---
 ## Notes
-Команды для простого просмотра:
-```
-groups username
-id username
-```
 
 - *Для редактирования этих вайлов нужно юзать `vipw`*
 - 

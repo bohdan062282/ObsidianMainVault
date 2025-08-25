@@ -65,6 +65,8 @@ tags:
 		- [[grep]]
 	- #### Users and permissions
 		- [[User files]]
+		- [[User management tools]]
+		- [[Group management tools]]
 		- 
 		- 
 	- 
