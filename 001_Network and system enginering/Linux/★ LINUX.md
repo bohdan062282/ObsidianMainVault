@@ -14,6 +14,7 @@ tags:
 - [[Типы пакетов Linux]]
 - [[Пакетные менеджеры]]
 - [[001_Network and system enginering/Linux/ssh|ssh]]
+- [[Opened Port List]]
 - ### Manuals
 	- [[Git Auth]]
 	- [[Fedora install]]
