@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9164054443bb3b3",
+        "id": "f4c432d257f107c9",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f74ff83a9c9e08",
+            "id": "eff63993897984a2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,16 +175,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3f74ff83a9c9e08",
+  "active": "eff63993897984a2",
   "lastOpenFiles": [
-    "001_Network and system enginering/Linux/Commands/screen.md",
+    "001_Network and system enginering/Linux/Modifying Permissions.md",
     "001_Network and system enginering/Linux/★ LINUX.md",
-    "001_Network and system enginering/Linux/Commands/tmux.md",
-    "001_Network and system enginering/Linux/Block size.md",
-    "001_Network and system enginering/Linux/User management tools.md",
-    "001_Network and system enginering/Linux/Commands/cut.md",
-    "001_Network and system enginering/Linux/User files.md",
     "001_Network and system enginering/Linux/Group management tools.md",
+    "001_Network and system enginering/Linux/User management tools.md",
+    "001_Network and system enginering/Linux/User files.md",
+    "001_Network and system enginering/Linux/links.md",
+    "001_Network and system enginering/Linux/Commands/apt.md",
+    "001_Network and system enginering/Linux/Commands/tmux.md",
+    "001_Network and system enginering/Linux/Commands/screen.md",
+    "001_Network and system enginering/Linux/Block size.md",
+    "001_Network and system enginering/Linux/Commands/cut.md",
     "001_Network and system enginering/Linux/STD streams.md",
     "001_Network and system enginering/SSH.md",
     "003_Personal/Sport/Bodyweight active exercises.md",
@@ -201,9 +204,6 @@
     "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Firewall.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/★ Basic RouterOS Configuration.md",
-    "001_Network and system enginering/Networking/RouterOS/★ RouterOS.md",
-    "001_Network and system enginering/Networking/RouterOS/Basic universal firewall script.md",
-    "001_Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
     "_cache/Pasted image 20250820122931.png",
     "_cache/Pasted image 20250820122239.png",
     "_cache/Pasted image 20250820121830.png",

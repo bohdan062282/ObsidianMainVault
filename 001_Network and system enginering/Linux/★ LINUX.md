@@ -68,6 +68,7 @@ tags:
 		- [[User files]]
 		- [[User management tools]]
 		- [[Group management tools]]
+		- (Возможно про PAM почитать)
 		- 
 		- 
 	- 
@@ -77,6 +78,9 @@ tags:
 	- [[Sync]]
 	- [[wget]]
 	- [[tmux]]
+	- [[screen]]
+	- [[mc]]
+	- 
 	- 
 
 - ### Chapters

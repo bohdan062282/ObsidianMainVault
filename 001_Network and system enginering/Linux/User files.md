@@ -139,7 +139,7 @@ Another file used in user management is the `/etc/group` file. This file allows 
 ## Notes
 
 - *Для редактирования этих вайлов нужно юзать `vipw`*
-- 
+- *Для груп прям вот шоб отдельно если нет випв * - `vigr`
 
 
 ---

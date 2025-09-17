@@ -117,5 +117,6 @@ usermod -d /home/newhome bogdan  # сменить домашку
 - `id username`
 - `who` - кто залогинен
 - `last`
+- `chsh -s путь` - поменять оболочку
 
 ---
