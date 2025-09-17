@@ -76,7 +76,7 @@ tags:
 	- [[mkfs]]
 	- [[Sync]]
 	- [[wget]]
-	- 
+	- [[tmux]]
 	- 
 
 - ### Chapters

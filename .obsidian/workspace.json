@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3de1b8990bf3ba62",
+        "id": "d9164054443bb3b3",
         "type": "tabs",
         "children": [
           {
-            "id": "d3774c91c46d8fee",
+            "id": "c3f74ff83a9c9e08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_Network and system enginering/Linux/Opened Port List.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Opened Port List"
+              "title": "New tab"
             }
           }
         ]
@@ -179,15 +175,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3774c91c46d8fee",
+  "active": "c3f74ff83a9c9e08",
   "lastOpenFiles": [
+    "001_Network and system enginering/Linux/Commands/screen.md",
     "001_Network and system enginering/Linux/★ LINUX.md",
+    "001_Network and system enginering/Linux/Commands/tmux.md",
+    "001_Network and system enginering/Linux/Block size.md",
+    "001_Network and system enginering/Linux/User management tools.md",
     "001_Network and system enginering/Linux/Commands/cut.md",
+    "001_Network and system enginering/Linux/User files.md",
+    "001_Network and system enginering/Linux/Group management tools.md",
+    "001_Network and system enginering/Linux/STD streams.md",
+    "001_Network and system enginering/SSH.md",
+    "003_Personal/Sport/Bodyweight active exercises.md",
+    "001_Network and system enginering/Linux/Commands/find.md",
+    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Backup.md",
+    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Upgrading and installation.md",
+    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
+    "001_Network and system enginering/Networking/RouterOS/Basic configuration/Configuration Management.md",
     "001_Network and system enginering/Linux/Commands/uniq.md",
     "001_Network and system enginering/Linux/Opened Port List.md",
     "001_Network and system enginering/Linux/Commands/sort.md",
     "Untitled.base",
-    "001_Network and system enginering/Linux/Group management tools.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/First time configuration.md",
     "001_Network and system enginering/Networking/RouterOS/MikrotikTraining Roadmap/Firewall.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Securing basics.md",
@@ -195,19 +204,6 @@
     "001_Network and system enginering/Networking/RouterOS/★ RouterOS.md",
     "001_Network and system enginering/Networking/RouterOS/Basic universal firewall script.md",
     "001_Network and system enginering/Networking/RouterOS/RouterOS Skills Stack.md",
-    "003_Personal/Sport/Posture exercises.md",
-    "001_Network and system enginering/Linux/Commands/env.md",
-    "001_Network and system enginering/Linux/Commands/alias.md",
-    "001_Network and system enginering/Linux/Commands/locate.md",
-    "003_Personal/Sport/Bodyweight active exercises.md",
-    "001_Network and system enginering/Linux/User files.md",
-    "001_Network and system enginering/Linux/User management tools.md",
-    "001_Network and system enginering/Linux/Commands/history.md",
-    "001_Network and system enginering/Linux/Commands/cp.md",
-    "001_Network and system enginering/Linux/Commands/parted.md",
-    "001_Network and system enginering/Linux/shadow file.md",
-    "001_Network and system enginering/Linux/passwd file.md",
-    "001_Network and system enginering/Linux/sudoers file.md",
     "_cache/Pasted image 20250820122931.png",
     "_cache/Pasted image 20250820122239.png",
     "_cache/Pasted image 20250820121830.png",
