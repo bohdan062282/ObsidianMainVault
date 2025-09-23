@@ -116,7 +116,10 @@ usermod -d /home/newhome bogdan  # сменить домашку
 - `groups username`
 - `id username`
 - `who` - кто залогинен
+- `whoami`
+- `id`
 - `last`
 - `chsh -s путь` - поменять оболочку
+- `logname` - кто залогинился изначально
 
 ---

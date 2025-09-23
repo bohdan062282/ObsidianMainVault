@@ -69,7 +69,8 @@ tags:
 		- [[User management tools]]
 		- [[Group management tools]]
 		- (Возможно про PAM почитать)
-		- 
+		- [[umask]]
+		- [[permission bits]]
 		- 
 	- 
 	- [[dd]]
