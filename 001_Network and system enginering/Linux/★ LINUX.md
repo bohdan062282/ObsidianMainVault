@@ -64,6 +64,7 @@ tags:
 		- wc (количество строк слов байт)
 		- nl (нумерация строк (по умолчанию: не нулевые))
 		- [[grep]]
+		- [[diff]]
 	- #### Users and permissions
 		- [[User files]]
 		- [[User management tools]]
