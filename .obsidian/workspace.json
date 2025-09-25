@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f88b144ce50abffd",
+        "id": "8aa302e8629259f1",
         "type": "tabs",
         "children": [
           {
-            "id": "83d231f6e33afbae",
+            "id": "1f4ea8945ea667c4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,17 +175,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83d231f6e33afbae",
+  "active": "1f4ea8945ea667c4",
   "lastOpenFiles": [
-    "001_Network and system enginering/Linux/permission bits.md",
+    "001_Network and system enginering/Linux/User management tools.md",
     "001_Network and system enginering/Linux/★ LINUX.md",
+    "001_Network and system enginering/Linux/Commands/grep.md",
+    "001_Network and system enginering/Linux/Modifying Permissions.md",
+    "001_Network and system enginering/Linux/permission bits.md",
     "001_Network and system enginering/Linux/Commands/ls.md",
+    "001_Network and system enginering/Linux/Commands/mkdir.md",
     "001_Network and system enginering/Linux/Commands/diff.md",
     "SECOND BRAIN.md",
     "001_Network and system enginering/Linux/Commands/tail.md",
     "001_Network and system enginering/Linux/Commands/rm.md",
     "001_Network and system enginering/Linux/umask.md",
-    "001_Network and system enginering/Linux/User management tools.md",
     "001_Network and system enginering/Linux/User files.md",
     "001_Network and system enginering/Linux/Group management tools.md",
     "Obsidian help.md",
@@ -196,14 +199,11 @@
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
     "001_Network and system enginering/Linux/Commands/cp.md",
-    "001_Network and system enginering/Linux/Modifying Permissions.md",
     "001_Network and system enginering/Linux/links.md",
     "001_Network and system enginering/Linux/Commands/apt.md",
     "001_Network and system enginering/Linux/Commands/tmux.md",
     "001_Network and system enginering/Linux/Commands/screen.md",
     "001_Network and system enginering/Linux/Block size.md",
-    "001_Network and system enginering/Linux/Commands/cut.md",
-    "001_Network and system enginering/Linux/STD streams.md",
     "_cache/Pasted image 20250820122931.png",
     "_cache/Pasted image 20250820122239.png",
     "_cache/Pasted image 20250820121830.png",

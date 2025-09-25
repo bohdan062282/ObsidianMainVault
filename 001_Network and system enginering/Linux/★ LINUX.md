@@ -70,6 +70,7 @@ tags:
 		- [[User management tools]]
 		- [[Group management tools]]
 		- (Возможно про PAM почитать)
+		- [[Modifying Permissions]]
 		- [[umask]]
 		- [[permission bits]]
 		- 

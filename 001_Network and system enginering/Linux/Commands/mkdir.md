@@ -19,7 +19,7 @@ tags:
 ### Examples
 ```bash
 mkdir new_folder                   # создать папку
-mkdir -p /var/www/project/logs     # создать всю цепочку
+mkdir -p /var/www/project/logs     # создать всю цепочку, если шото в цепочке есть то будет ошибка
 ```
 
 
