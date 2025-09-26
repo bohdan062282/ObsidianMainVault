@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8aa302e8629259f1",
+        "id": "e1fad39544751675",
         "type": "tabs",
         "children": [
           {
-            "id": "1f4ea8945ea667c4",
+            "id": "54025684a8c9c016",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,14 +175,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f4ea8945ea667c4",
+  "active": "8bae71f01f0f84cb",
   "lastOpenFiles": [
-    "001_Network and system enginering/Linux/User management tools.md",
     "001_Network and system enginering/Linux/★ LINUX.md",
+    "001_Network and system enginering/Linux/Commands/ls.md",
+    "001_Network and system enginering/Linux/User management tools.md",
     "001_Network and system enginering/Linux/Commands/grep.md",
     "001_Network and system enginering/Linux/Modifying Permissions.md",
     "001_Network and system enginering/Linux/permission bits.md",
-    "001_Network and system enginering/Linux/Commands/ls.md",
     "001_Network and system enginering/Linux/Commands/mkdir.md",
     "001_Network and system enginering/Linux/Commands/diff.md",
     "SECOND BRAIN.md",

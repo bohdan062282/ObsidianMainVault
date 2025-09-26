@@ -26,6 +26,8 @@ tags:
 			- [[ls]]
 			- [[find]]
 			- [[locate]]
+			- uname (kernel name, -a (shows detailed system information including kernel version, hostname, and architecture))
+			- uptime (System load averages represent the average system load over 1, 5, and 15 minute periods)
 		- ##### Работа с файлами и папками
 			- touch
 			- [[cp]]
