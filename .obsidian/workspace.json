@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1fad39544751675",
+        "id": "faf7c935096ccf8e",
         "type": "tabs",
         "children": [
           {
-            "id": "54025684a8c9c016",
+            "id": "98c6604c582577f3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,14 +175,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bae71f01f0f84cb",
+  "active": "98c6604c582577f3",
   "lastOpenFiles": [
+    "001_Network and system enginering/Linux/Commands/kill.md",
+    "001_Network and system enginering/Linux/processes.md",
     "001_Network and system enginering/Linux/★ LINUX.md",
-    "001_Network and system enginering/Linux/Commands/ls.md",
+    "001_Network and system enginering/Linux/Commands/ps.md",
     "001_Network and system enginering/Linux/User management tools.md",
-    "001_Network and system enginering/Linux/Commands/grep.md",
-    "001_Network and system enginering/Linux/Modifying Permissions.md",
     "001_Network and system enginering/Linux/permission bits.md",
+    "001_Network and system enginering/Linux/Regular expressions.md",
+    "001_Network and system enginering/Linux/Commands/grep.md",
+    "001_Network and system enginering/Windows/powershell/ssh-keygen.md",
+    "001_Network and system enginering/SSH.md",
+    "001_Network and system enginering/Linux/Commands/ls.md",
+    "001_Network and system enginering/Linux/Modifying Permissions.md",
     "001_Network and system enginering/Linux/Commands/mkdir.md",
     "001_Network and system enginering/Linux/Commands/diff.md",
     "SECOND BRAIN.md",
@@ -194,16 +200,10 @@
     "Obsidian help.md",
     "Untitled.base",
     "001_Network and system enginering/Linux/Opened Port List.md",
-    "001_Network and system enginering/Linux/Regular expressions.md",
     "001_Network and system enginering/Linux/ssh.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
     "001_Network and system enginering/Linux/Commands/cp.md",
-    "001_Network and system enginering/Linux/links.md",
-    "001_Network and system enginering/Linux/Commands/apt.md",
-    "001_Network and system enginering/Linux/Commands/tmux.md",
-    "001_Network and system enginering/Linux/Commands/screen.md",
-    "001_Network and system enginering/Linux/Block size.md",
     "_cache/Pasted image 20250820122931.png",
     "_cache/Pasted image 20250820122239.png",
     "_cache/Pasted image 20250820121830.png",

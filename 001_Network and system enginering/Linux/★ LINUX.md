@@ -19,54 +19,15 @@ tags:
 	- [[Git Auth]]
 	- [[Fedora install]]
 - ### Basics
-	- #### CLI Fundamentals
-		- ##### Навигация по файловой системе
-			- pwd
-			- [[cd]]
-			- [[ls]]
-			- [[find]]
-			- [[locate]]
-			- uname (kernel name, -a (shows detailed system information including kernel version, hostname, and architecture))
-			- uptime (System load averages represent the average system load over 1, 5, and 15 minute periods)
-		- ##### Работа с файлами и папками
-			- touch
-			- [[cp]]
-			- mv
-			- [[mkdir]]
-			- [[rm]]
-			- [[file]]
-		- ##### Хелпа:
-			- help
-			- tldr
-			- whatis
-			- man
+	- #### CLI Fundamentals:
+		- ##### Навигация по системе: `pwd`, [[cd]], [[ls]], [[find]], [[locate]], [[history]], [[alias]], [[env]],
+		- `uname` (kernel name, -a (shows detailed system information including kernel version, hostname, and architecture)), `uptime` (System load averages represent the average system load over 1, 5, and 15 minute periods)
+		- ##### Работа с файлами и папками: `touch`, [[cp]], `mv`, [[mkdir]], [[rm]], [[file]], [[links]]
+		- ##### Хелпа: `help`, `tldr`, `whatis`, `man`
 		- ##### Работа с архивами: `tar`, `gzip`, `xz`
-		- Поиск: `find`, `locate`, `grep`
-		- Ссылки: `ln -s`
-		- [[history]]
-		- [[alias]]
-		- [[env]]
-		- [[links]]
-	- #### Text manipulation and navigation
-		- [[STD streams]]
-		- [[Regular expressions]]
-		- [[vim]]
-		- cat
-		- less
-		- [[cut]]
-		- [[paste]]
-		- head
-		- [[tail]]
-		- [[expand]]
-		- [[join]]
-		- [[split]]
-		- [[sort]]
-		- [[tr]]
-		- [[uniq]]
-		- wc (количество строк слов байт)
-		- nl (нумерация строк (по умолчанию: не нулевые))
-		- [[grep]]
-		- [[diff]]
+		- Поиск: `find`, `locate`
+	- #### Text manipulation and navigation:
+		[[STD streams]], [[Regular expressions]], [[vim]], `cat`, `less`, [[cut]], [[paste]], `head`, [[tail]], [[expand]], [[join]], [[split]], [[sort]], [[tr]], [[uniq]], `wc (количество строк слов байт)`, `nl (нумерация строк (по умолчанию: не нулевые))`, [[grep]], [[diff]]
 	- #### Users and permissions
 		- [[User files]]
 		- [[User management tools]]
@@ -75,7 +36,9 @@ tags:
 		- [[Modifying Permissions]]
 		- [[umask]]
 		- [[permission bits]]
-		- 
+		- limits.conf
+	- #### Processes:
+		[[ps]], 
 	- 
 	- [[dd]]
 	- [[parted]]
