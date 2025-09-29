@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "faf7c935096ccf8e",
+        "id": "d9fb418b79dc3099",
         "type": "tabs",
         "children": [
           {
-            "id": "98c6604c582577f3",
+            "id": "849374320453438f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,11 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98c6604c582577f3",
+  "active": "8bae71f01f0f84cb",
   "lastOpenFiles": [
+    "001_Network and system enginering/Linux/★ LINUX.md",
+    "Untitled.base",
     "001_Network and system enginering/Linux/Commands/kill.md",
     "001_Network and system enginering/Linux/processes.md",
-    "001_Network and system enginering/Linux/★ LINUX.md",
     "001_Network and system enginering/Linux/Commands/ps.md",
     "001_Network and system enginering/Linux/User management tools.md",
     "001_Network and system enginering/Linux/permission bits.md",
@@ -198,12 +199,10 @@
     "001_Network and system enginering/Linux/User files.md",
     "001_Network and system enginering/Linux/Group management tools.md",
     "Obsidian help.md",
-    "Untitled.base",
     "001_Network and system enginering/Linux/Opened Port List.md",
     "001_Network and system enginering/Linux/ssh.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Netinstall.md",
     "001_Network and system enginering/Networking/RouterOS/Basic configuration/Packages.md",
-    "001_Network and system enginering/Linux/Commands/cp.md",
     "_cache/Pasted image 20250820122931.png",
     "_cache/Pasted image 20250820122239.png",
     "_cache/Pasted image 20250820121830.png",
